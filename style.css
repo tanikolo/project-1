@@ -1,0 +1,32 @@
+body {
+    background-color: #e6dad3;
+  }
+  
+  .brandName {
+    font-family: "Playball", cursive;
+  }
+  
+  .brandNameTwo {
+    font-family: 'Whisper', cursive;
+    font-size: 20px;
+  }
+  
+  .nav-link {
+    font-family: "Marcellus", serif;
+  }
+  
+  .nav-item:hover {
+    border-bottom: 1px solid #8396a1;
+  }
+  
+  p, h1, h2, h3 {
+    font-family: "Marcellus", serif;
+  }
+  
+  .photo {
+    border: 30px solid #fff;
+  }
+  
+  .btnFont {
+    font-family: "Marcellus", serif;
+  }
